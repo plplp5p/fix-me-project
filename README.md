@@ -44,6 +44,7 @@ The demo video showcases the main application workflow and user interfaces.
 A demo video is included in this repository to showcase the application workflow and main interfaces.
 
 ## Application Screenshots
+## Application Screenshots
 
 ### Login Screen
 ![Login Screen](screenshots/login-screen.jpeg)
