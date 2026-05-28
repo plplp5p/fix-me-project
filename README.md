@@ -38,6 +38,8 @@ The application aims to improve the labor market experience by helping customers
 - Demo video
 
 ## Demo
+[Watch Demo Video](FIXME.mp4)
+The demo video showcases the main application workflow and user interfaces.
 
 A demo video is included in this repository to showcase the application workflow and main interfaces.
 
