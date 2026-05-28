@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Screenshot 2025-02-18 211522.png" alt="FIX ME Logo" width="180">
+</p>
 # FIX ME
 
 FIX ME is a smart mobile application that connects customers with skilled workers and contractors through a secure and transparent platform.
