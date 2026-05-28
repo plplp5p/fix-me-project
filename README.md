@@ -43,6 +43,29 @@ The demo video showcases the main application workflow and user interfaces.
 
 A demo video is included in this repository to showcase the application workflow and main interfaces.
 
+## Application Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login-screen.jpeg)
+
+### Home Screen
+![Home Screen](screenshots/home-screen.jpeg)
+
+### Workers List
+![Workers List](screenshots/workers-list.jpeg)
+
+### Worker Information
+![Worker Information](screenshots/worker-information.jpeg)
+
+### Contractor Management
+![Contractor Management](screenshots/contractor-management.jpeg)
+
+### Orders Screen
+![Orders Screen](screenshots/orders-screen.jpeg)
+
+### Completed Orders
+![Completed Orders](screenshots/completed-orders.jpeg)
+
 ## Author
 
 Sarah Alwadi
